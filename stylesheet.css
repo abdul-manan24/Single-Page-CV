@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+}
+
+#MyName {
+    font-family:calibri;
+    margin:10px;
+}
+
+h2 {
+    color:green;
+    font-family:calibri;
+}
+
+h3 {
+    color:blue;
+    font-family:calibri;
+}
+
+#Introduction {
+    background-color:beige;
+    padding:10px;
+    outline:2px solid lightgrey;
+    border-radius:8px;
+    margin:10px;
+    font-family:calibri;
+}
+
+#Skills {
+    background-color:beige;
+    padding:10px;
+    outline:2px solid lightgrey;
+    border-radius:8px;
+    margin:10px;
+    font-family:calibri;
+}
+
+#Education {
+    background-color:beige;
+    padding:10px;
+    outline:2px solid lightgrey;
+    border-radius:8px;
+    margin:10px;
+    font-family:calibri;
+}
+
+#Experience {
+    background-color:beige;
+    padding:10px;
+    outline:2px solid lightgrey;
+    border-radius:8px;
+    margin:10px;
+    font-family:calibri;
+}
+
+#Other-accounts {
+    background-color:beige;
+    padding:10px;
+    outline:2px solid lightgrey;
+    border-radius:8px;
+    margin:10px;
+    font-family:calibri;
+}
